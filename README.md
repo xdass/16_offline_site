@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+It's site prepared to work offline. All dependencies added to repository. No need internet connection.
+
+# How to use
+
+Just open index.html in your browser
 
 # Project Goals
 
